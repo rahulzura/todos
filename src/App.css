@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.inln {
+  display: inline;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.p10 {
+  padding: 10px 0;
+}
+
+.rc5 {
+  border-radius: 5px;
+}
